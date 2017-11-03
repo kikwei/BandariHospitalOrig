@@ -1,0 +1,91 @@
+body{
+     font-family: "Roboto Condensed",Humanst521 Lt BT;
+	 width:100%;
+	 margin:0 auto;
+	 overflow:auto;
+	 background-color:#00FFFF;;
+	 
+ }
+ #logo{
+	 background-color:#99FFFF;
+ }
+ .loggo{
+      float: left;
+      margin-left: 10%;
+      border-radius: 50%;
+      margin-top: 4%;
+	  margin-right:2%;
+}
+.title-main{
+	color:#39535E;
+	font-family:"Roboto Condensed",Humanst521 Lt BT;
+	font-size: 30px;
+	text-align: left;
+	padding: 4px;
+}
+.motto{
+	text-align: left;
+	padding: 2px;
+	margin: 0px;
+	margin-left: 14%;
+	margin-top: -3%;
+	font-size: 17px;
+	color: #324553;
+}
+#nav{
+	border: none;
+	border-radius: 0px;
+	background-color:#99FFFF;
+	font-size:20px;	
+}
+#aside{
+	clear: both;
+	font-size: 20px;
+	margin:2% 0px;
+	background-color: #FFFFFF;
+	height: 480px;
+	border-radius:6px;
+}
+#footer{
+	background-color:#99FFFF;
+	height:100px;
+	font-size: 15px;
+	text-align:center;
+}
+#lee{
+	clear: both;
+	font-size: 20px;
+	margin:1% 1px;
+	height: auto;
+	border-radius:7px;
+	background-color: #FFFFFF;
+}
+	#silvia{
+    clear: both;
+	font-size: 20px;
+	margin:1% 1px;
+	height: 800px;
+	border-radius:7px;
+	background-color: #FFFFFF;
+	}
+	#ul_dep{
+    clear: both;
+	font-size: 20px;
+	margin-left: 90px;
+	margin-right:90px;
+	margin-bottom:50px;
+	height: auto;
+	border-radius:7px;
+	background-color: #FFFF00;
+	width:auto;
+	}
+	#p_details{
+		
+		background-color:#87ceeb ;
+		height: 50px;
+		text-align:center;
+	}
+
+	#mainBusiness{
+		padding-top: 2%;
+	}

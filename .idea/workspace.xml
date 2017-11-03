@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/consAttendPatient.php" description="&lt;script&gt;&#10;    $(document).ready(function () {&#10;     ..." line="471" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03b21a8e-37e3-47c9-8da4-36c346026fdf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="labViewTests.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/labViewTests.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+              <folding>
+                <marker date="1494436411081" expanded="true" signature="1120:1245" ph="SELECT FULLN... PATIENTS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="labViewPostedTests.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/labViewPostedTests.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+              <folding>
+                <marker date="1494426635101" expanded="true" signature="1268:1345" ph="SELECT * FRO... LABORATORY" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="postLabResults.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/postLabResults.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <marker date="1497576834327" expanded="true" signature="324:455" ph="UPDATE LABOR... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wardAdmitPatient.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wardAdmitPatient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding>
+                <marker date="1491140177224" expanded="true" signature="299:441" ph="INSERT INTO AdmittedPatients... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wardDischargePatient.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wardDischargePatient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <folding>
+                <marker date="1491141307937" expanded="true" signature="239:344" ph="UPDATE Admit... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consAttendPatient.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/consAttendPatient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding>
+                <marker date="1506529171039" expanded="true" signature="967:1104" ph="UPDATE patie... " />
+                <marker date="1506529171039" expanded="true" signature="973:1104" ph="INSERT INTO PHARMACIST" />
+                <marker date="1506529171039" expanded="true" signature="1192:1308" ph="INSERT INTO PHARMACIST" />
+                <marker date="1506529171039" expanded="true" signature="1426:1490" ph="UPDATE PATIE... " />
+                <marker date="1506529171039" expanded="true" signature="1575:1656" ph="UPDATE LABOR... " />
+                <marker date="1506529171039" expanded="true" signature="1882:1970" ph="INSERT INTO LabTests... " />
+                <marker date="1506529171039" expanded="true" signature="2574:2627" ph="SELECT `age`... patients" />
+                <marker date="1506529171039" expanded="true" signature="2827:2916" ph="INSERT INTO age_disease_trend... " />
+                <marker date="1506529171039" expanded="true" signature="2827:2934" ph="INSERT INTO age_disease_trend... " />
+                <marker date="1506529171039" expanded="true" signature="3027:3157" ph="INSERT INTO patients_disease_record... " />
+                <marker date="1506529171039" expanded="true" signature="3719:3783" ph="UPDATE PATIE... " />
+                <marker date="1506529171039" expanded="true" signature="3864:3983" ph="INSERT INTO ADMIT... " />
+                <marker date="1506529171039" expanded="true" signature="4959:5035" ph="SELECT FullN... PATIENTS" />
+                <marker date="1506529171039" expanded="true" signature="5170:5181" ph="..." />
+                <marker date="1506529171039" expanded="true" signature="6736:6772" ph="SELECT `dise... all_diseases" />
+                <marker date="1506529171039" expanded="true" signature="8371:8454" ph="SELECT Disea... patients_disease_record" />
+                <marker date="1506529171039" expanded="true" signature="10777:10804" ph="SELECT `drug... drugs" />
+                <marker date="1506529171039" expanded="true" signature="13285:13321" ph="SELECT `dise... all_diseases" />
+                <marker date="1506529171039" expanded="true" signature="15886:15913" ph="SELECT `test... tests" />
+                <marker date="1506529171039" expanded="true" signature="17288:17385" ph="SELECT COUNT... laboratory" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pharmacyDrugManagement.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pharmacyDrugManagement.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <marker date="1497576487349" expanded="true" signature="310:374" ph="SELECT Drugs... Drugs" />
+                <marker date="1497576487349" expanded="true" signature="462:560" ph="UPDATE Drugs... " />
+                <marker date="1497576487349" expanded="true" signature="895:975" ph="INSERT INTO DRUGS... " />
+                <marker date="1497576487349" expanded="true" signature="1057:1121" ph="SELECT Drugs... Drugs" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditPatientForm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EditPatientForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="49" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+              <folding>
+                <marker date="1506528239918" expanded="true" signature="209:254" ph="SELECT * FRO... Patients" />
+                <marker date="1506528239918" expanded="true" signature="936:1248" ph="UPDATE Patie... " />
+                <marker date="1506528239918" expanded="true" signature="1485:1530" ph="SELECT * FRO... Patients" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="patientsRegistration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patientsRegistration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+              <folding>
+                <marker date="1497536847680" expanded="true" signature="721:796" ph="SELECT Patie... PATIENTS" />
+                <marker date="1497536847680" expanded="true" signature="1034:1378" ph="INSERT INTO PATIENTS... " />
+                <marker date="1497536847680" expanded="true" signature="1467:1542" ph="SELECT Patie... PATIENTS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drugsTrend.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drugsTrend.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <marker date="1496210691970" expanded="true" signature="252:383" ph="SELECT DISTI... track_drugs" />
+                <marker date="1496210691970" expanded="true" signature="579:592" ph="..." />
+                <marker date="1496210691970" expanded="true" signature="865:990" ph="SELECT SUM(Q... track_drugs" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hi</find>
+      <find>for</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pharmacistProfile.php" />
+        <option value="$PROJECT_DIR$/labTechProfile.php" />
+        <option value="$PROJECT_DIR$/wardAttendantProfile.php" />
+        <option value="$PROJECT_DIR$/receptionistChangePassword.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/checkPatientRegistration.php" />
+        <option value="$PROJECT_DIR$/displayPatient.php" />
+        <option value="$PROJECT_DIR$/css/bandaricss.css" />
+        <option value="$PROJECT_DIR$/consSearchPatient.php" />
+        <option value="$PROJECT_DIR$/lab_staffhome.php" />
+        <option value="$PROJECT_DIR$/ward_staffhome.php" />
+        <option value="$PROJECT_DIR$/ReceToConsultant.php" />
+        <option value="$PROJECT_DIR$/labViewPostedTests.php" />
+        <option value="$PROJECT_DIR$/EditPatient.php" />
+        <option value="$PROJECT_DIR$/patientDetailsToEdit.php" />
+        <option value="$PROJECT_DIR$/labViewTests.php" />
+        <option value="$PROJECT_DIR$/pharmDisplayPatient.php" />
+        <option value="$PROJECT_DIR$/wardViewPostedAdmissions.php" />
+        <option value="$PROJECT_DIR$/wardViewAdmittedPatients.php" />
+        <option value="$PROJECT_DIR$/consViewPatientsPreviousMedicalRecord.php" />
+        <option value="$PROJECT_DIR$/consViewLabResults.php" />
+        <option value="$PROJECT_DIR$/viewRegisterdPatients.php" />
+        <option value="$PROJECT_DIR$/addStaff.php" />
+        <option value="$PROJECT_DIR$/admin_homepage.php" />
+        <option value="$PROJECT_DIR$/AdminLogIn.php" />
+        <option value="$PROJECT_DIR$/adminTrackDisease.php" />
+        <option value="$PROJECT_DIR$/changePassword.php" />
+        <option value="$PROJECT_DIR$/add_staff.php" />
+        <option value="$PROJECT_DIR$/consChangePassword.php" />
+        <option value="$PROJECT_DIR$/changePasswordAdmin.php" />
+        <option value="$PROJECT_DIR$/consPostToLab.php" />
+        <option value="$PROJECT_DIR$/diseaseTrendByAge.php" />
+        <option value="$PROJECT_DIR$/SearchPatientToEdit.php" />
+        <option value="$PROJECT_DIR$/displayAlreadyRegisteredPatient.php" />
+        <option value="$PROJECT_DIR$/consDisplayPatient.php" />
+        <option value="$PROJECT_DIR$/consViewUnattendedPatients.php" />
+        <option value="$PROJECT_DIR$/patientsRegistration.php" />
+        <option value="$PROJECT_DIR$/reception_staffhome.php" />
+        <option value="$PROJECT_DIR$/consultation_staffhome.php" />
+        <option value="$PROJECT_DIR$/drugsTrend.php" />
+        <option value="$PROJECT_DIR$/patientsPreviousMedicalRecord.php" />
+        <option value="$PROJECT_DIR$/pharmAttendPatient.php" />
+        <option value="$PROJECT_DIR$/pharmacy_staffhomepage.php" />
+        <option value="$PROJECT_DIR$/displayStaff.php" />
+        <option value="$PROJECT_DIR$/pharmacyViewAvailableDrugs.php" />
+        <option value="$PROJECT_DIR$/postDrugsIssued.php" />
+        <option value="$PROJECT_DIR$/pharmacyDrugManagement.php" />
+        <option value="$PROJECT_DIR$/pharmViewUnattendedPatients.php" />
+        <option value="$PROJECT_DIR$/postLabResults.php" />
+        <option value="$PROJECT_DIR$/EditPatientForm.php" />
+        <option value="$PROJECT_DIR$/consAttendPatient.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bandarihospital5555" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bandarihospital5555" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03b21a8e-37e3-47c9-8da4-36c346026fdf" name="Default" comment="" />
+      <created>1489395471590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489395471590</updated>
+      <workItem from="1489395473475" duration="9998000" />
+      <workItem from="1489557806373" duration="21935000" />
+      <workItem from="1489642956300" duration="34729000" />
+      <workItem from="1489730656006" duration="36425000" />
+      <workItem from="1489907927608" duration="14286000" />
+      <workItem from="1489999249587" duration="596000" />
+      <workItem from="1490022570263" duration="1298000" />
+      <workItem from="1490032408160" duration="1173000" />
+      <workItem from="1490078166845" duration="34902000" />
+      <workItem from="1490161875759" duration="38581000" />
+      <workItem from="1490257522527" duration="28644000" />
+      <workItem from="1490343984244" duration="10976000" />
+      <workItem from="1490597903522" duration="7580000" />
+      <workItem from="1490714188195" duration="716000" />
+      <workItem from="1490790823201" duration="7572000" />
+      <workItem from="1490857150541" duration="14429000" />
+      <workItem from="1491037562333" duration="7722000" />
+      <workItem from="1491134524268" duration="16864000" />
+      <workItem from="1491206423190" duration="1498000" />
+      <workItem from="1491394750612" duration="6288000" />
+      <workItem from="1491417770623" duration="659000" />
+      <workItem from="1491458092914" duration="7970000" />
+      <workItem from="1491638461836" duration="13135000" />
+      <workItem from="1491818345688" duration="2082000" />
+      <workItem from="1491921129956" duration="177000" />
+      <workItem from="1491931266222" duration="1186000" />
+      <workItem from="1492031297598" duration="943000" />
+      <workItem from="1492067509365" duration="1243000" />
+      <workItem from="1492248283629" duration="594000" />
+      <workItem from="1492329190353" duration="439000" />
+      <workItem from="1492501735168" duration="3352000" />
+      <workItem from="1492595133236" duration="2448000" />
+      <workItem from="1492622655955" duration="2038000" />
+      <workItem from="1492708272789" duration="1204000" />
+      <workItem from="1492765914712" duration="1233000" />
+      <workItem from="1492771541584" duration="2251000" />
+      <workItem from="1492838339548" duration="6162000" />
+      <workItem from="1492934931056" duration="737000" />
+      <workItem from="1493017720957" duration="1313000" />
+      <workItem from="1493051659022" duration="2588000" />
+      <workItem from="1493099999141" duration="21080000" />
+      <workItem from="1493186689666" duration="5844000" />
+      <workItem from="1493302478275" duration="8209000" />
+      <workItem from="1493358866252" duration="19134000" />
+      <workItem from="1493387683804" duration="1190000" />
+      <workItem from="1493462918594" duration="3219000" />
+      <workItem from="1493797394360" duration="1520000" />
+      <workItem from="1493809897615" duration="1872000" />
+      <workItem from="1493828086726" duration="883000" />
+      <workItem from="1494319775752" duration="16378000" />
+      <workItem from="1494412581868" duration="20511000" />
+      <workItem from="1494524752328" duration="7795000" />
+      <workItem from="1494589649793" duration="897000" />
+      <workItem from="1494612938692" duration="1324000" />
+      <workItem from="1494642264007" duration="593000" />
+      <workItem from="1494653929561" duration="606000" />
+      <workItem from="1494738523280" duration="11746000" />
+      <workItem from="1494825866586" duration="9194000" />
+      <workItem from="1494853225212" duration="11380000" />
+      <workItem from="1494901295383" duration="8345000" />
+      <workItem from="1494923173614" duration="23171000" />
+      <workItem from="1494988626970" duration="593000" />
+      <workItem from="1495001862260" duration="6410000" />
+      <workItem from="1495021043209" duration="1197000" />
+      <workItem from="1495036147845" duration="8412000" />
+      <workItem from="1495101320657" duration="8464000" />
+      <workItem from="1495158937788" duration="11688000" />
+      <workItem from="1495204930018" duration="3918000" />
+      <workItem from="1495356280993" duration="1626000" />
+      <workItem from="1495456849613" duration="7124000" />
+      <workItem from="1495545973098" duration="7640000" />
+      <workItem from="1495608847103" duration="16504000" />
+      <workItem from="1495631389656" duration="4304000" />
+      <workItem from="1495677376264" duration="4174000" />
+      <workItem from="1495684470602" duration="4638000" />
+      <workItem from="1495772560383" duration="583000" />
+      <workItem from="1495778031833" duration="594000" />
+      <workItem from="1495815186399" duration="10000" />
+      <workItem from="1496209143765" duration="9905000" />
+      <workItem from="1496329642573" duration="591000" />
+      <workItem from="1496399326929" duration="604000" />
+      <workItem from="1496743418461" duration="10167000" />
+      <workItem from="1496917289133" duration="591000" />
+      <workItem from="1497531517352" duration="599000" />
+      <workItem from="1497575005409" duration="3241000" />
+      <workItem from="1497616174641" duration="592000" />
+      <workItem from="1498095023743" duration="28000" />
+      <workItem from="1505311043344" duration="670000" />
+      <workItem from="1505736107356" duration="31000" />
+      <workItem from="1505736293423" duration="653000" />
+      <workItem from="1506527334939" duration="3022000" />
+      <workItem from="1506696746873" duration="599000" />
+      <workItem from="1506834600844" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="642621000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="772" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28396946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32766616" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EditStaffForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminLogIn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="88" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changePassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="59" column="15" lean-forward="false" selection-start-line="59" selection-start-column="15" selection-end-line="60" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changePasswordAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consLogOut.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consPostToLab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consPostToPharmacy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consPostToWard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consSearchPatient.php" />
+    <entry file="file://$PROJECT_DIR$/consultationlogin.php" />
+    <entry file="file://$PROJECT_DIR$/consultantProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consViewPatientsPreviousMedicalRecord.php" />
+    <entry file="file://$PROJECT_DIR$/consViewLabResults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletePatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteStaff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayStaffToDelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayStaffToEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayPatientToEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayAlreadyRegisteredPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchPatientToEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consDisplayPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reception_staffhome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="81" lean-forward="false" selection-start-line="43" selection-start-column="81" selection-end-line="43" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultation_staffhome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="54" column="93" lean-forward="false" selection-start-line="54" selection-start-column="93" selection-end-line="54" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consViewUnattendedPatients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-647">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminTrackDisease.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="188" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patientsPreviousMedicalRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="106" lean-forward="false" selection-start-line="36" selection-start-column="106" selection-end-line="36" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consChangePassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="131" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pharmAttendPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pharmacy_staffhomepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="185" lean-forward="false" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayStaff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="70" lean-forward="false" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pharmacyViewPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pharmacyViewAvailableDrugs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postDrugsIssued.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_staff.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diseaseTrendByAge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="40" column="9" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patientregistration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pharmViewUnattendedPatients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labViewTests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <marker date="1494436411081" expanded="true" signature="1120:1245" ph="SELECT FULLN... PATIENTS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labViewPostedTests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <marker date="1494426635101" expanded="true" signature="1268:1345" ph="SELECT * FRO... LABORATORY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postLabResults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1497576834327" expanded="true" signature="324:455" ph="UPDATE LABOR... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wardAdmitPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <marker date="1491140177224" expanded="true" signature="299:441" ph="INSERT INTO AdmittedPatients... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wardDischargePatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <marker date="1491141307937" expanded="true" signature="239:344" ph="UPDATE Admit... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patientsRegistration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <marker date="1497536847680" expanded="true" signature="721:796" ph="SELECT Patie... PATIENTS" />
+            <marker date="1497536847680" expanded="true" signature="1034:1378" ph="INSERT INTO PATIENTS... " />
+            <marker date="1497536847680" expanded="true" signature="1467:1542" ph="SELECT Patie... PATIENTS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drugsTrend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <marker date="1496210691970" expanded="true" signature="252:383" ph="SELECT DISTI... track_drugs" />
+            <marker date="1496210691970" expanded="true" signature="579:592" ph="..." />
+            <marker date="1496210691970" expanded="true" signature="865:990" ph="SELECT SUM(Q... track_drugs" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pharmacyDrugManagement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <marker date="1497576487349" expanded="true" signature="310:374" ph="SELECT Drugs... Drugs" />
+            <marker date="1497576487349" expanded="true" signature="462:560" ph="UPDATE Drugs... " />
+            <marker date="1497576487349" expanded="true" signature="895:975" ph="INSERT INTO DRUGS... " />
+            <marker date="1497576487349" expanded="true" signature="1057:1121" ph="SELECT Drugs... Drugs" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditPatientForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="49" lean-forward="false" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <marker date="1506528239918" expanded="true" signature="209:254" ph="SELECT * FRO... Patients" />
+            <marker date="1506528239918" expanded="true" signature="936:1248" ph="UPDATE Patie... " />
+            <marker date="1506528239918" expanded="true" signature="1485:1530" ph="SELECT * FRO... Patients" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consAttendPatient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <marker date="1506529171039" expanded="true" signature="967:1104" ph="UPDATE patie... " />
+            <marker date="1506529171039" expanded="true" signature="973:1104" ph="INSERT INTO PHARMACIST" />
+            <marker date="1506529171039" expanded="true" signature="1192:1308" ph="INSERT INTO PHARMACIST" />
+            <marker date="1506529171039" expanded="true" signature="1426:1490" ph="UPDATE PATIE... " />
+            <marker date="1506529171039" expanded="true" signature="1575:1656" ph="UPDATE LABOR... " />
+            <marker date="1506529171039" expanded="true" signature="1882:1970" ph="INSERT INTO LabTests... " />
+            <marker date="1506529171039" expanded="true" signature="2574:2627" ph="SELECT `age`... patients" />
+            <marker date="1506529171039" expanded="true" signature="2827:2916" ph="INSERT INTO age_disease_trend... " />
+            <marker date="1506529171039" expanded="true" signature="2827:2934" ph="INSERT INTO age_disease_trend... " />
+            <marker date="1506529171039" expanded="true" signature="3027:3157" ph="INSERT INTO patients_disease_record... " />
+            <marker date="1506529171039" expanded="true" signature="3719:3783" ph="UPDATE PATIE... " />
+            <marker date="1506529171039" expanded="true" signature="3864:3983" ph="INSERT INTO ADMIT... " />
+            <marker date="1506529171039" expanded="true" signature="4959:5035" ph="SELECT FullN... PATIENTS" />
+            <marker date="1506529171039" expanded="true" signature="5170:5181" ph="..." />
+            <marker date="1506529171039" expanded="true" signature="6736:6772" ph="SELECT `dise... all_diseases" />
+            <marker date="1506529171039" expanded="true" signature="8371:8454" ph="SELECT Disea... patients_disease_record" />
+            <marker date="1506529171039" expanded="true" signature="10777:10804" ph="SELECT `drug... drugs" />
+            <marker date="1506529171039" expanded="true" signature="13285:13321" ph="SELECT `dise... all_diseases" />
+            <marker date="1506529171039" expanded="true" signature="15886:15913" ph="SELECT `test... tests" />
+            <marker date="1506529171039" expanded="true" signature="17288:17385" ph="SELECT COUNT... laboratory" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
